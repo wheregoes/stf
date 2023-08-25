@@ -1,6 +1,6 @@
 # stf.py
 **Description** <br />
-Search for terms in files recursively and save on SQLite database. <br />
+Search Terms in Files recursively and save on SQLite database. <br />
 
 **Requirements:**
 ```pip install tika sql colorama tenacity```
